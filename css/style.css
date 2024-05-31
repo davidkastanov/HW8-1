@@ -1,0 +1,9 @@
+.yellow {
+    color: yellow;
+}
+#greycol {
+    color: gray;
+}
+div>p+h3 {
+    color: red;
+}
