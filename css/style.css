@@ -7,3 +7,67 @@
 div>p+h3 {
     color: red;
 }
+h3:nth-child(1) {
+    color: pink;
+}
+div>p+div {
+    color: red;
+}
+th:nth-child(2n) {
+    color: purple;
+    background-color: pink;
+}
+th:nth-child(3n) {
+    color: pink;
+    background-color: purple;
+}
+th:nth-child(5n) {
+    color: pink;
+    background-color: purple;
+}
+th:nth-child(3n) {
+    color: pink;
+    background-color: purple;
+}
+th:nth-child(1) {
+    color: pink;
+    background-color: purple;
+}
+.first {
+    color: blue;
+    background-color: blueviolet;
+}
+.second {
+    color: brown;
+    background-color: cadetblue;
+}
+.three {
+    color: black;
+    background-color: olive;
+
+}
+.fourth {
+    color: aqua;
+    background-color: aquamarine;
+
+}
+.five {
+    color: darkslateblue;
+    background-color: cyan;
+}
+ .six {
+    color: deepskyblue;
+    background-color: darkorchid;
+ }
+ .seven {
+    color: palevioletred;
+    background-color: khaki;
+    
+ }
+ .eight {
+    color: violet;
+    background-color: green;
+ }
+ p:nth-child(3) {
+    color: green;
+ }
